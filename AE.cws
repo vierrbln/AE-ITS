@@ -1,0 +1,275 @@
+[Workspace Header]
+Version = 1700
+Pathname = "/o/S114_ApplicationEditor/Version 0.1.0.0/AE.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2017"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2017"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "AE.prj"
+Drag Bar Left = 317
+Window Top = 183
+Window Left = 524
+Window Bottom = 685
+Window Right = 1298
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 5
+Window Confinement Region Enabled = True
+MainColumnWidth = 300
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1700
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/program files (x86)/national instruments/cvi2017/toolslib/toolbox/inifile.fp"
+File Type = "Function Panel"
+Disk Date = 3573586800
+In Projects = "1,"
+
+[File 0002]
+Path = "/c/Program Files (x86)/Rohde-Schwarz/GTSL/Bin/resmgr.fp"
+File Type = "Function Panel"
+Disk Date = 3415870880
+In Projects = "1,"
+
+[File 0003]
+Path = "/o/S114_ApplicationEditor/Version 0.1.0.0/mainpanel_callbacks.c"
+File Type = "CSource"
+Disk Date = 3400141302
+In Projects = "1,"
+Window Top = 38
+Window Left = 7
+Window Z-Order = 1
+Source Window State = "1,102,102,102,9,75,9,0,3,169,0,0,0,0,0,42,82,0,102,75,347,685,1,0,"
+
+[File 0004]
+Path = "/o/S114_ApplicationEditor/Version 0.1.0.0/menu_callbacks.c"
+File Type = "CSource"
+Disk Date = 3683528392
+In Projects = "1,"
+Window Top = 100
+Window Left = 39
+Source Window State = "1,97,100,97,3,3,3,0,3,0,0,101,0,59,0,0,60,0,100,3,347,717,1,10,"
+Breakpoint 0001 = "23,0,enabled,"
+
+[File 0005]
+Path = "/o/S114_ApplicationEditor/Version 0.1.0.0/inifile.c"
+File Type = "CSource"
+Disk Date = 3395311484
+In Projects = ""
+Window Top = 40
+Window Left = 7
+Window Z-Order = 4
+Source Window State = "1,1869,1869,1869,21,21,21,0,0,71,0,0,0,0,0,20,1649,0,1652,66,347,717,1,0,"
+
+[File 0006]
+Path = "/o/S114_ApplicationEditor/Version 0.1.0.0/inifile.h"
+File Type = "Include"
+Disk Date = 3395311468
+In Projects = ""
+Window Top = 100
+Window Left = 39
+Window Z-Order = 5
+Source Window State = "1,98,100,98,0,0,0,0,3,71,0,0,0,0,0,20,62,0,100,0,347,717,1,0,"
+
+[File 0007]
+Path = "/o/S114_ApplicationEditor/Version 0.1.0.0/AE.c"
+File Type = "CSource"
+Disk Date = 3683617156
+In Projects = "1,"
+Window Top = 92
+Window Left = 38
+Window Z-Order = 3
+Source Window State = "1,7,7,7,4,8,8,0,3,71,0,1167,0,1174,111,20,180,0,7,4,349,719,1,0,"
+
+[File 0008]
+Path = "/o/S114_ApplicationEditor/Version 0.1.0.0/splash_callbacks.c"
+File Type = "CSource"
+Disk Date = 3397623120
+In Projects = "1,"
+Window Top = 182
+Window Left = 90
+Window Z-Order = 2
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,0,0,427,804,1,0,"
+
+[File 0009]
+Path = "/o/S114_ApplicationEditor/Version 0.1.0.0/AE.uir"
+File Type = "User Interface Resource"
+Disk Date = 3683617928
+In Projects = "1,"
+Window Top = 40
+Window Left = 7
+Window Height = 347
+Window Width = 717
+
+[File 0010]
+Path = "/o/2_Common_Panels/Splash.uir"
+File Type = "User Interface Resource"
+Disk Date = 3696225694
+In Projects = "1,"
+Window Top = 212
+Window Left = 106
+Window Height = 427
+Window Width = 804
+
+[File 0011]
+Path = "/o/S114_ApplicationEditor/Version 0.1.0.0/utilities.c"
+File Type = "CSource"
+Disk Date = 3683526918
+In Projects = "1,"
+Window Top = 32
+Window Left = 6
+Source Window State = "1,11,11,11,4,27,27,0,0,0,0,0,0,0,0,0,34,0,57,11,349,719,1,0,"
+
+[File 0012]
+Path = "/o/S114_ApplicationEditor/Version 0.1.0.0/AE.h"
+File Type = "Include"
+Disk Date = 3683533514
+In Projects = "1,"
+Window Top = 32
+Window Left = 6
+Source Window State = "1,105,105,105,9,32,32,0,3,0,0,5,0,0,0,0,81,0,105,9,310,719,1,11,"
+
+[File 0013]
+Path = "/o/S114_ApplicationEditor/Version 0.1.0.0/definitions.h"
+File Type = "Include"
+Disk Date = 3683530706
+In Projects = "1,"
+Window Top = 62
+Window Left = 22
+Source Window State = "1,114,116,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114,0,349,719,1,0,"
+
+[File 0014]
+Path = "/o/2_Common_Panels/Splash.h"
+File Type = "Include"
+Disk Date = 3629365292
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[Tab Order]
+Tab 0001 = "/o/S114_ApplicationEditor/Version 0.1.0.0/inifile.c"
+Tab 0002 = "/o/S114_ApplicationEditor/Version 0.1.0.0/inifile.h"
+Tab 0003 = "/o/S114_ApplicationEditor/Version 0.1.0.0/mainpanel_callbacks.c"
+Tab 0004 = "/o/S114_ApplicationEditor/Version 0.1.0.0/AE.c"
+Tab 0005 = "/o/S114_ApplicationEditor/Version 0.1.0.0/splash_callbacks.c"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args Line0001 = "\"O:\\S114_ApplicationEditor\\Version 0.1.0.0\\IO253_LP-C53040-A28-X630_Applicat"
+Command Line Args Line0002 = "ion.ini\""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Watch 1]
+Watch Expression = "pStartDubPMB"
+
+[Watch 2]
+Watch Expression = "pStartPMB"
+
